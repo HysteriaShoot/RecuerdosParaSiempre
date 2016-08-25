@@ -1,21 +1,3 @@
-/*
-* {
-    margin: 0;
-    padding: 0;
-}**/
-body{
-    background-image: url("../media/body/01.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-}
-@media only screen and (max-width: 800px) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
 #hexGrid {
     overflow: hidden;
     width: 90%;
@@ -252,6 +234,20 @@ body{
     display: block;
 }
 
+body{
+    background-image: url("../media/body/01.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+@media only screen and (max-width: 800px) {
+body{
+    background-image: url("../media/body/backgroundphone.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+}
+
 ul#menu {
     margin-top: -2%;
     margin-left: 12%;
@@ -285,6 +281,7 @@ ul#menu li a:hover {
    bottom: 1%;
    left: 95%;
 }
+
 #title{
     display: block;
     text-align: center;
@@ -294,8 +291,3 @@ ul#menu li a:hover {
     margin-top: -2%;
     margin-bottom: -3%;
     }
-
-
-
-
-

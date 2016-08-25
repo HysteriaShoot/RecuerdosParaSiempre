@@ -234,21 +234,10 @@
     display: block;
 }
 
-@media only screen and (max-width : 800px) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
+body {
+    background-image: url("img_tree.png");
     background-repeat: no-repeat;
-}
-}
-
-
-@media only screen and (min-width: 801px) {
-body{
-    background-image: url("../media/body/01.jpg");
     background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
 }
 
 ul#menu {

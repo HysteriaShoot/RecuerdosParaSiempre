@@ -234,106 +234,17 @@
     display: block;
 }
 
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
+@media only screen and (max-width : 800px) {
 body{
     background-image: url("../media/body/backgroundphone.jpg");
-    background-attachment: fixed;
-    background-size: cover;
     background-repeat: no-repeat;
 }
 }
 
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
 
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
-
-/* iPads (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
-
-/* iPads (landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
-
-/* iPads (portrait) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : portrait) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
-
-/* Desktops and laptops ----------- */
-@media only screen
-and (min-width : 1224px) {
+@media only screen and (min-width: 801px) {
 body{
     background-image: url("../media/body/01.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
-
-/* Large screens ----------- */
-@media only screen
-and (min-width : 1824px) {
-body{
-    background-image: url("../media/body/01.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-}
-
-/* iPhone 4 ----------- */
-@media
-only screen and (-webkit-min-device-pixel-ratio : 1.5),
-only screen and (min-device-pixel-ratio : 1.5) {
-body{
-    background-image: url("../media/body/backgroundphone.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;

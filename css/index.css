@@ -5,9 +5,17 @@
 }
 
 body{
- background-image: url("../media/body/01.jpg");
+    background-image: url("../media/body/01.jpg");
     background-attachment: fixed;
     background-size: cover;
+}
+@media only screen and (max-width: 800px) {
+body{
+    background-image: url("../media/body/01.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+}
 
 ul#menu {
     margin-top: -2%;

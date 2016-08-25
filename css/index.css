@@ -6,8 +6,9 @@
 
  body{
     background-image: url("../media/body/01.jpg");
-    background-attachment: fixed;
-    background-size: cover;
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;;
 }
 
 ul#menu {

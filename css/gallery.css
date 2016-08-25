@@ -273,7 +273,7 @@ body{
 and (min-device-width : 768px)
 and (max-device-width : 1024px) {
 body{
-    background-image: url("../media/body/01.jpg");
+    background-image: url("../media/body/backgroundphone.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -286,7 +286,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (orientation : landscape) {
 body{
-    background-image: url("../media/body/01.jpg");
+    background-image: url("../media/body/backgroundphone.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -299,7 +299,7 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (orientation : portrait) {
 body{
-    background-image: url("../media/body/01.jpg");
+    background-image: url("../media/body/backgroundphone.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;

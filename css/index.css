@@ -4,21 +4,12 @@
     display: block;
 }
 
-+#fondo{    
- +    position: absolute; 
- +    top: 0; 
- +    left: 0;
- +    width: 100%;
- +    height: 100%;
- +    z-index: -1;}
- +@media only screen and (max-width: 800px) {
- +#fondo{
- +    width: 0%;
- +}
- +body{
- +    background-image: url("../media/body/01.jpg");
- +}
- +}
++-body{
+ + -    width: 100%;
+ + -    background-image: url("../media/body/01.jpg");
+ + -    background-attachment: fixed;
+ + -    background-size: cover;
+ + -}
 
 ul#menu {
     margin-top: -2%;

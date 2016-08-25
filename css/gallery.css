@@ -234,7 +234,7 @@
     display: block;
 }
 
-@media only screen and (max-width : 320px) {
+@media only screen and (max-width : 800px) {
 body{
     background-image: url("../media/body/backgroundphone.jpg");
     background-attachment: fixed;

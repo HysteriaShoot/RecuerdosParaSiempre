@@ -12,6 +12,7 @@ body{
 }
 @media only screen and (max-width: 800px) {
 body{
+    max-width: 100%;
     background-image: url("../media/body/01.jpg");
     background-attachment: fixed;
     background-size: cover;

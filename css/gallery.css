@@ -234,11 +234,15 @@
     display: block;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width : 320px) {
 body{
-    background-color: #000000;
+    background-image: url("../media/body/backgroundphone.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 }
+
 
 @media only screen and (min-width: 801px) {
 body{

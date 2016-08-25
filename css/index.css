@@ -14,6 +14,7 @@ body{
     background-image: url("../media/body/backgroundphone.jpg");
     background-attachment: fixed;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 }
 

@@ -237,13 +237,13 @@
 body{
     background-image: url("../media/body/01.jpg");
     background-attachment: fixed;
-    /*background-size: cover;*/
+    background-size: cover;
 }
 @media only screen and (max-width: 800px) {
 body{
     background-image: url("../media/body/backgroundphone.jpg");
     background-attachment: fixed;
-    background-size: cover;
+    /*background-size: cover;*/
     background-repeat: no-repeat;
 }
 }

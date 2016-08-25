@@ -235,7 +235,7 @@
 }
 
 body {
-    background-image: url("img_tree.png");
+    background-image: url("../media/body/backgroundfull.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }

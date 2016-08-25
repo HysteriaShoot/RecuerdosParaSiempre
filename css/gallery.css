@@ -234,6 +234,12 @@
     display: block;
 }
 
+@media only screen and (max-width: 800px) {
+body{
+    background-color: #000000;
+}
+}
+
 body{
     background-image: url("../media/body/01.jpg");
     background-attachment: fixed;

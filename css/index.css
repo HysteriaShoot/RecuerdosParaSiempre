@@ -15,14 +15,14 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-}
+  }
 }
 
 ul#menu {
     margin-top: -2%;
     margin-left: 12%;
     padding: 0;
-    
+
 }
 
 ul#menu li {

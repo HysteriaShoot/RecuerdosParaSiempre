@@ -10,7 +10,7 @@ function stopInterval(){
 }
 
 function carrusel(){
-	if (i < 5){
+	if (i < 7){
 		document.getElementById('imageCarrusel').src ="../media/carrusel/foto" + i + ".jpg";
 		i++;
 	}else{
@@ -21,7 +21,7 @@ function carrusel(){
 
 function carruselNext(){
 	i++;
-	if(i > 6){
+	if(i > 7){
 		i = 1;
 	}
 	document.getElementById('imageCarrusel').src ="../media/carrusel/foto" + i + ".jpg";

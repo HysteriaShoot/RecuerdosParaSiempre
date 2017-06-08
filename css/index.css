@@ -48,7 +48,7 @@ ul#menu li a:hover {
 }
 
 #contenedor {
-  margin-top: 2%;
+  margin-top: 1%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -58,7 +58,7 @@ ul#menu li a:hover {
 }
 footer {
   position: absolute;
-  bottom: 0%;
+  bottom: 1%;
   right: 0;
   left: 0;
   font-size: 18px;

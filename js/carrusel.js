@@ -18,7 +18,7 @@ function carrusel(){
 
 function carruselNext(){
 	i++;
-	if(i > 7){
+	if(i > 6){
 		i = 1;
 	}
 	document.getElementById('imageCarrusel').src ="../media/carrusel/foto" + i + ".jpg";

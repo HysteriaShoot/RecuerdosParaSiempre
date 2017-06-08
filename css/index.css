@@ -17,7 +17,7 @@ text-align: center;
 
 
 ul#menu {
-  margin-top: -4%;
+  margin-top: -3%;
 }
 
 ul#menu li {
@@ -48,6 +48,7 @@ ul#menu li a:hover {
 }
 
 #contenedor {
+  margin-top: 5%;
   display: flex;
   justify-content: center;
   align-items: center;

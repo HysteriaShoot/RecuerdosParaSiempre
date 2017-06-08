@@ -1,0 +1,10 @@
+.celdaServicios {
+  max-width: 130px;
+  min-height: 100px;
+  margin: 5px;
+  padding: 2px 2px;
+  float: left;
+  text-align: center;
+  background-color: #c682eb;
+  border-radius: 15px;
+}

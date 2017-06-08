@@ -18,7 +18,7 @@ ul#menu {
 }
 
 ul#menu li {
-    display: inline;;
+    display: inline;
 }
 
 ul#menu li a {
@@ -66,3 +66,40 @@ form{
   max-width: 90%;
   text-align: center;
 }
+/*Hasta aqui la parte de contacto*/
+#descripcion{
+  background-color: white;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 0,5%;
+  padding-bottom: 0,5%;
+  font-family: 'Parisienne', cursive;
+  font-weight: bold;
+  color: #002f2e;
+  font-size: 150%;
+  width: 800px;
+  margin: 0 auto;
+  right: 0 auto;
+  left: 0 auto;
+  border-width: 1px;
+  border-color: #7f7f7f;
+  border-radius: 30px;
+
+}
+#h2S{
+  font-family: 'Great Vibes', cursive;
+  color: #c4c4c4;
+  font-size: 250%;
+  text-align: center;
+}
+#contenedor{
+  margin: 0 auto;
+  right: 0 auto;
+  left: 0 auto;
+  max-width: 90%;
+  text-align: center;
+  }
+#ventana{
+  border:0px;
+  }
+/*Hasta aqui la parte de servicios*/

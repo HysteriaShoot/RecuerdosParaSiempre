@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="servicios.xsl" type="text/xsl"?>
+<servicios>
+
+  <servicio>
+    <icono>../media/iconos/webcam.png</icono>
+    <tipo>Streaming</tipo>
+    <desc>Podras retransmitir tu evento via web para los que no puedan asistir</desc>
+  </servicio>
+
+  <servicio>
+    <icono>../media/iconos/nutricionista.png</icono>
+    <tipo>Catering</tipo>
+    <desc>Servicio de catering propio y personalizado</desc>
+  </servicio>
+
+  <servicio>
+    <icono>../media/iconos/lugares.png</icono>
+    <tipo>Alquiler de Lugares</tipo>
+    <desc>Convierte tu evento en algo unico alquilando un castillo, hotel, campiña... Todo es posible</desc>
+  </servicio>
+
+  <servicio>
+    <icono>../media/iconos/ocio.png</icono>
+    <tipo>Eventos</tipo>
+    <desc>Celebra una Boda, Cumpleaños, Comunion, Fiesta de Empresa, Reunion, lo que desees con nosotros.</desc>
+  </servicio>
+
+
+  <servicio>
+    <icono>../media/iconos/talleres.png</icono>
+    <tipo>Te ayudamos</tipo>
+    <desc>Te ayudamos a que sea unico, aconsejandote en todo momento y aportando ideas.</desc>
+  </servicio>
+
+  <servicio>
+    <icono>../media/iconos/stop.png</icono>
+    <tipo>Presupuestos</tipo>
+    <desc>Presupuestos sin compromiso y financiacion en comodos plazos si lo deseas!.</desc>
+  </servicio>
+
+</servicios>

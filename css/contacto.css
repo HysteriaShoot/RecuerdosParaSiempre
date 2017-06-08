@@ -1,0 +1,68 @@
+header{
+  text-align: center;
+}
+body{
+  background-image: url("../media/fondo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed
+}
+header h1{
+margin-top: 1%;
+font-family: 'Parisienne';
+font-size: 500%;
+color: #c070c4;
+text-align: center;
+}
+ul#menu {
+  margin-top: -4%;
+}
+
+ul#menu li {
+    display: inline;;
+}
+
+ul#menu li a {
+    background-color: rgba(162, 98, 227, 0.5);
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 180%;
+}
+
+ul#menu li a:hover {
+    background-color: #000000;
+}
+
+#ic{
+    float: left;
+    max-width: 80%;
+    display: inline-block;
+}
+#iconos{
+   position: fixed;
+   max-width: 90%;
+   bottom: 1%;
+   left: 95%;
+}
+footer {
+  font-size: 18px;
+  text-align: center;
+}
+/*Hasta aqui el basico*/
+#contenedor{
+  font-family: 'Great Vibes', cursive;
+  color: #c4c4c4;
+}
+
+form{
+  text-align: center;
+  font-size: 200%;
+}
+
+#datos{
+  font-size: 150%;
+  margin: 0 auto;
+  right: 0 auto;
+  left: 0 auto;
+  max-width: 90%;
+  text-align: center;
+}

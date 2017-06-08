@@ -10,7 +10,7 @@ function stopInterval(){
 }
 
 function carrusel(){
-	if (i < 6){
+	if (i < 7){
 		document.getElementById('imageCarrusel').src ="../media/carrusel/foto" + i + ".jpg";
 		i++;
 	}else{

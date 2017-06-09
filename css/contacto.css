@@ -44,12 +44,12 @@ ul#menu li a:hover {
    left: 95%;
 }
 footer{
- position:fixed;
-   left:0px;
-   bottom:0px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
   font-size: 18px;
   text-align: center;
-  width:100%;
 }
 /*Hasta aqui el basico*/
 #contenedor{

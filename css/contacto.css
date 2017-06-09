@@ -45,9 +45,9 @@ ul#menu li a:hover {
 }
 footer{
  position:fixed;
-  right:0; 
-  left:0;
-   bottom:0;
+  right:0px; 
+  left:0px;
+   bottom:0px;
   font-size: 18px;
   text-align: center;
   width:100%;
